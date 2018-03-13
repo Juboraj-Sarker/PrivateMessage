@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Private Message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="interstitial_full_screen1">ca-app-pub-5809082953640465/9137425906</string>
+
+
+    <string name="juboraj_sarker"><u>Juboraj Sarker</u></string>
+    <string name="help_serial_1">1. If you give passcode while making secret your message then you have to remember this passcode while you will back original message. Also your partner\'s should know the same passcode.</string>
+    <string name="help_serial_2">2. If you don\'t give any passcode while making your message secret then no need to remember it and no need to enter passcode when you will return your original message</string>
+    <string name="help_serial_3">3. If you dont enter any passcode this application will give a default passcode and make the message secret.</string>
+    <string name="help_serial_4">4. No one can read these secret message. If you want to return original message you must have to use this app.</string>
+    <string name="help_serial_5">5. For more security I suggest select a passcode by mutual discussing with your partner and use the same passcode for future. No one can read your message.</string>
+    <string name="help_serial_6">Feel free to give your feedback. Just touch here and send me mail</string>
+</resources>
